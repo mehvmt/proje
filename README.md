@@ -34,7 +34,7 @@ Bu proje, kullanıcıların kendi vücut ölçülerine göre oluşturulan 3D ava
 
 1. Repo'yu klonlayın:
 \`\`\`
-git clone https://github.com/kullaniciadi/3d-sanal-prova-odasi.git
+git clone https://github.com/mehvmt/proje.git
 cd 3d-sanal-prova-odasi
 \`\`\`
 
